@@ -1,0 +1,15 @@
+D:/work/github/ltang_fpga/v3_fpga/tri_assignment_2/sim/tb_tri_assignment_2.v {1 {vlog -work work -vopt -stats=none D:/work/github/ltang_fpga/v3_fpga/tri_assignment_2/sim/tb_tri_assignment_2.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_tri_assignment_2
+
+Top level modules:
+	tb_tri_assignment_2
+
+} {} {}} D:/work/github/ltang_fpga/v3_fpga/tri_assignment_2/design/tri_assignment_2.v {1 {vlog -work work -vopt -stats=none D:/work/github/ltang_fpga/v3_fpga/tri_assignment_2/design/tri_assignment_2.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tri_assignment_2
+
+Top level modules:
+	tri_assignment_2
+
+} {} {}}

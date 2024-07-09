@@ -1,0 +1,8 @@
+D:/work/github/ltang_fpga/v3_fpga/counter/sim/tb_counter.v {1 {vlog -work work -vopt -stats=none D:/work/github/ltang_fpga/v3_fpga/counter/sim/tb_counter.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_top_counter
+
+Top level modules:
+	tb_top_counter
+
+} {} {}}

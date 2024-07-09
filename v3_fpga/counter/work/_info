@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/work/github/ltang_fpga/v3_fpga/operation
+T_opt
+!s110 1720527811
+VMXMn@?=Z=b`T4<B3JXm?h0
+04 11 4 work top_counter fast 0
+=1-7c214a0af767-668d2bc3-2c5-5b00
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1720528456
+VENOVM[PcEjAV_P26RGDGR0
+04 14 4 work tb_top_counter fast 0
+=1-7c214a0af767-668d2e48-26e-2dd4
+R1
+R2
+n@_opt1
+R3
+vtb_top_counter
+!s110 1720528446
+!i10b 1
+!s100 k7_83zaFe@Ag;[4hQk;Sd2
+I8U@zjoTiWQ`bZd3^`dY>J1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dD:/work/github/ltang_fpga/v3_fpga/counter
+w1720528415
+8D:/work/github/ltang_fpga/v3_fpga/counter/sim/tb_counter.v
+FD:/work/github/ltang_fpga/v3_fpga/counter/sim/tb_counter.v
+L0 14
+Z6 OL;L;10.7;67
+r1
+!s85 0
+31
+Z7 !s108 1720528446.000000
+!s107 D:/work/github/ltang_fpga/v3_fpga/counter/sim/tb_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work/github/ltang_fpga/v3_fpga/counter/sim/tb_counter.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtop_counter
+!s110 1720528447
+!i10b 1
+!s100 ;c1^^3077hZo3RE[5o`7N2
+IzQd>5mYbeNETfX7P8:jO70
+R4
+R5
+w1720528433
+8D:/work/github/ltang_fpga/v3_fpga/counter/design/top_counter.v
+FD:/work/github/ltang_fpga/v3_fpga/counter/design/top_counter.v
+L0 12
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/work/github/ltang_fpga/v3_fpga/counter/design/top_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work/github/ltang_fpga/v3_fpga/counter/design/top_counter.v|
+!i113 0
+R8
+R2
