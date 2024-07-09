@@ -1,1 +1,11 @@
+D:/work/github/ltang_fpga/v3_fpga/a_and_b/sim/tb_a_and_b.v {0 {vlog -work work -vopt -stats=none D:/work/github/ltang_fpga/v3_fpga/a_and_b/sim/tb_a_and_b.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_a_and_b
+** Error: (vlog-13069) D:/work/github/ltang_fpga/v3_fpga/a_and_b/sim/tb_a_and_b.v(34): near ")": syntax error, unexpected ')', expecting .* or '.'.
 
+} {4.0 5.0} {}} D:/work/github/ltang_fpga/v3_fpga/a_and_b/a_and_b.v {0 {vlog -work work -vopt -stats=none D:/work/github/ltang_fpga/v3_fpga/a_and_b/a_and_b.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module a_and_b
+** Error: D:/work/github/ltang_fpga/v3_fpga/a_and_b/a_and_b.v(34): Register is illegal in left-hand side of continuous assignment
+
+} {4.0 5.0} {}}
