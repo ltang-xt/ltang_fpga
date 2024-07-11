@@ -1,0 +1,165 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/work/github/ltang_fpga/v3_fpga/counter
+T_opt
+!s110 1720594376
+Voa^Ezml6h[JWBP01_0L<=2
+04 11 4 work tb_div_clk4 fast 0
+=1-7c214a0af767-668e2fc8-241-7580
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1720611667
+VckOIJJ@nV5B>LV6eL9`Kg1
+04 13 4 work tb_div_clk4_1 fast 0
+=1-7c214a0af767-668e7352-3b1-7dc0
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1720612972
+V8ES4llQ]<<dTf0`h2270W0
+04 13 4 work tb_div_clk4_2 fast 0
+=1-7c214a0af767-668e786c-233-278c
+R1
+R2
+n@_opt2
+R3
+vdiv_clk4
+!s110 1720611592
+!i10b 1
+!s100 @S[Ucl?=0A>PSM?L7j39<1
+IzL7DMUW2O=izY;MTHo3]B1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dD:/work/github/ltang_fpga/v3_fpga/div_clk4
+w1720611569
+Z6 8D:/work/github/ltang_fpga/v3_fpga/div_clk4/design/div_clk4_1.v
+Z7 FD:/work/github/ltang_fpga/v3_fpga/div_clk4/design/div_clk4_1.v
+Z8 L0 12
+Z9 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1720611592.000000
+Z10 !s107 D:/work/github/ltang_fpga/v3_fpga/div_clk4/design/div_clk4_1.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work/github/ltang_fpga/v3_fpga/div_clk4/design/div_clk4_1.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdiv_clk4_1
+Z13 !s110 1720611657
+!i10b 1
+!s100 W>OeV=E`NeAFj]djR;bQk1
+IdeifD8?1lj0cd[?<bch8Z2
+R4
+R5
+w1720611642
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+Z14 !s108 1720611657.000000
+R10
+R11
+!i113 0
+R12
+R2
+vdiv_clk4_2
+Z15 !s110 1720612954
+!i10b 1
+!s100 e:DN>a:]al47h;2MS5kjL3
+IOgVjUnF?m[1_<liklNleD1
+R4
+R5
+w1720612779
+8D:/work/github/ltang_fpga/v3_fpga/div_clk4/design/div_clk4_2.v
+FD:/work/github/ltang_fpga/v3_fpga/div_clk4/design/div_clk4_2.v
+R8
+R9
+r1
+!s85 0
+31
+Z16 !s108 1720612954.000000
+!s107 D:/work/github/ltang_fpga/v3_fpga/div_clk4/design/div_clk4_2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work/github/ltang_fpga/v3_fpga/div_clk4/design/div_clk4_2.v|
+!i113 0
+R12
+R2
+vtb_div_clk4
+!s110 1720594366
+!i10b 1
+!s100 K]feE^T8W_?=TXHDF><l<0
+IU[YSKk[zhgz5=Xi6kRJG93
+R4
+R5
+w1720594358
+8D:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4.v
+FD:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4.v
+L0 14
+R9
+r1
+!s85 0
+31
+!s108 1720594366.000000
+!s107 D:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4.v|
+!i113 0
+R12
+R2
+vtb_div_clk4_1
+R13
+!i10b 1
+!s100 9?4OR<h[LMEaF[L>Fo21d2
+IMYnSD1@zZ<?jNGX?O9D<N0
+R4
+R5
+w1720611652
+8D:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4_1.v
+FD:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4_1.v
+Z17 L0 13
+R9
+r1
+!s85 0
+31
+R14
+!s107 D:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4_1.v|
+!i113 0
+R12
+R2
+vtb_div_clk4_2
+R15
+!i10b 1
+!s100 fo`]d=`N[zZmIk_4=M@KK3
+I>I4eLZ[0[GT0P38HA<S7K1
+R4
+R5
+w1720612946
+8D:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4_2.v
+FD:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4_2.v
+R17
+R9
+r1
+!s85 0
+31
+R16
+!s107 D:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4_2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work/github/ltang_fpga/v3_fpga/div_clk4/sim/tb_div_clk4_2.v|
+!i113 0
+R12
+R2

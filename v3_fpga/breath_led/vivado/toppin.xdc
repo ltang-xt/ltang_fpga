@@ -1,0 +1,12 @@
+set_property PACKAGE_PIN K19 [get_ports led]
+set_property PACKAGE_PIN K17 [get_ports clk]
+set_property IOSTANDARD LVCMOS33 [get_ports led]
+set_property IOSTANDARD LVCMOS33 [get_ports clk]
+set_property PACKAGE_PIN M17 [get_ports ledg]
+set_property PACKAGE_PIN L16 [get_ports ledb]
+set_property IOSTANDARD LVCMOS33 [get_ports ledg]
+set_property IOSTANDARD LVCMOS33 [get_ports ledb]
+
+set_property PACKAGE_PIN H20 [get_ports rst_n]
+set_property IOSTANDARD LVCMOS33 [get_ports rst_n]
+set_property PULLUP true [get_ports rst_n]
