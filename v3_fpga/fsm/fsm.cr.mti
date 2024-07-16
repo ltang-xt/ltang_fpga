@@ -1,0 +1,15 @@
+D:/work/github/ltang_fpga/v3_fpga/fsm/design/fsm.v {1 {vlog -work work -vopt -stats=none D:/work/github/ltang_fpga/v3_fpga/fsm/design/fsm.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module fsm
+
+Top level modules:
+	fsm
+
+} {} {}} D:/work/github/ltang_fpga/v3_fpga/fsm/sim/tb_ex1_fsm.v {1 {vlog -work work -vopt -stats=none D:/work/github/ltang_fpga/v3_fpga/fsm/sim/tb_ex1_fsm.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_ex1_fsm
+
+Top level modules:
+	tb_ex1_fsm
+
+} {} {}}
